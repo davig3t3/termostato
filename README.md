@@ -16,6 +16,11 @@ Después de la ejecución del código, se detiene la ejecución por un segundo u
 
 Usando la tecnica de pomodoro para realizar este ejercicio el tiempo invertido fue de un total de 15 horas debido a su complejidad.
 
+## Tiempo de ejecución
+
+![image](https://user-images.githubusercontent.com/38923604/234461479-1913b371-aeec-4e25-ae77-00520f5e2034.png)
+
+
 ## Conclusión
 
 El código recibe una serie de entradas que representan rangos y un número, y determina si es posible realizar diferentes movimientos con esos rangos y el número dado, devolviendo un resultado específico para cada caso. Además, mide el tiempo de ejecución del código.
@@ -43,6 +48,11 @@ After the code execution, the execution is stopped for one second using the "tim
 ## Coding time
 
 Using the Pomodoro technique to complete this exercise, the total time invested was 15 hours due to its complexity.
+
+## Execution time
+
+![image](https://user-images.githubusercontent.com/38923604/234461613-1927d5b1-ac75-4c07-8f05-f03317c4bb47.png)
+
 
 ## Conclusion
 
